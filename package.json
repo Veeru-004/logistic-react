@@ -1,4 +1,4 @@
-git remote set-url origin abc@***.com:path/to/httpURLRepo{
+{
   "name": "qapitol-dropdown",
   "version": "0.1.0",
   "private": true,
